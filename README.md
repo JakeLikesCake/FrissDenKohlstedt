@@ -8,12 +8,18 @@ Grafik:
 - POV: MK-Pinguin 
 - Einzelne Spiele als Minigames
 
-Rätsel:
+-Supermarkt
 
+Aufbau:
+-Supermarkt
 -
 -
 -
--
+Games:
+- Spieler wird fetter/dünner durch Nahrungsaufnahme
+- 
+
+
 Themen:
 - Social Media Vermarktung
 - Supermarkt: Gemüsetheke, etc.
