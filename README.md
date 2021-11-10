@@ -1,6 +1,6 @@
 # FrissDenKohlstedt
 
-Amognus Raum
+Spiel
 
 
 
@@ -16,7 +16,7 @@ Aufbau:
 -
 -
 Games:
-- Spieler wird fetter/dünner durch Nahrungsaufnahme
+
 - 
 
 
